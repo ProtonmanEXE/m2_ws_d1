@@ -1,6 +1,6 @@
 HELP.md
 target/
-Git Back-up/
+back-up/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
