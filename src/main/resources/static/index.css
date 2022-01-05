@@ -1,0 +1,17 @@
+.groupphotos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.indivdphoto {
+    margin: 15px;
+    padding: 5px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
